@@ -9,9 +9,13 @@ PyLadies is a global organization, and run by volunteers all over the world. By 
 to this repo, (instead of emailing us privately) you'll not only be helping yourself, but also will be
 helping future community members who has similar question about PyLadies.
 
+# Code of Conduct
+
+PyLadies [Code of Conduct](https://www.pyladies.com/CodeOfConduct/) applies to this space.
+
 # Some FAQ about PyLadies
 
-**I'm running a local workshop and would like funding and sponsorship from PyLadies.**
+**I'm running a local workshop, can PyLadies sponsor and provide funding?**
 
 We don't have any funding available. If there is a local PyLadies chapter in your area,
 please work withe the organizers to host your workshop. The chapter may be eligible to
@@ -49,7 +53,7 @@ Please reach out to [the local chapter](https://github.com/pyladies/pyladies-ass
 
 **Can I purchase PyLadies merchandise, like stickers, t-shirt?**
 
-You can purchase t-shirts from [here](https://github.com/pyladies/pyladies/issues/428#issuecomment-545494464)
+You can purchase t-shirts from [here](https://shop.spreadshirt.com/pyladies/)
 Please do not purchase unauthorized merchandise from other sources.
 
 You can also attend PyCon US where we normally have a booth selling T-shirts and we giveaway stickers.
@@ -58,7 +62,8 @@ You can also attend PyCon US where we normally have a booth selling T-shirts and
 
 At the moment this is not possible. We are currently revising our PyLadies chapter policy. We hope to
 have a new policy in place soon. Once the policy is set, we will be creating Google Forms, and it
-will be made available in PyLadies
+will be made available from our main website. In the meantime, please join us in [Slack](https://slackin.pyladies.com/)
+and join the #prospective-organizers channel.
 
 **I need to discuss something privately.**
 
@@ -70,3 +75,14 @@ response, please [open an issue](https://github.com/pyladies/info/issues/new), o
 If you're attending PyCon US, you can apply for financial aid and indicate that you're requesting
 grant from PyLadies. For other conferences, please get in touch with the conference organizer to ask about
 their financial aid program.
+
+**I want to donate to PyLadies**
+
+You can make your donation [here](https://psfmember.org/civicrm/contribute/transact?reset=1&id=6).
+
+**Is there a PyLadies chapter where I live?**
+
+Please check out our registered [PyLadies chapter locations](https://www.pyladies.com/locations/).
+If there is none near you, it is likely does not exist. You're also welcome to join us in [Slack](https://slackin.pyladies.com/)!
+
+
