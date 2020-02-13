@@ -72,7 +72,7 @@ You can also attend PyCon US where we normally have a booth selling T-shirts and
 At the moment this is not possible. We are currently revising our PyLadies chapter policy. We hope to
 have a new policy in place soon. Once the new policy is set, we will be creating Google Forms, and it
 will be made available from our main website. In the meantime, please join us in [Slack](https://slackin.pyladies.com/)
-and join the #prospective-organizers channel.
+and join the `#prospective-organizers` channel.
 
 **I need to discuss something privately.**
 
