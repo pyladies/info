@@ -50,7 +50,7 @@ We're unable to provide financial sponsorship to events.
 **My company would like to host PyLadies meetup at our office.**
 
 We are a global community. Each chapter is organized independently. Please reach out to [the local
-chapter](https://github.com/pyladies/pyladies-assets#pyladies-assets) directly to offer your space.
+chapter](https://www.pyladies.com/locations/) directly to offer your space.
 
 **I lost password to my PyLadies email account.**
 
@@ -58,7 +58,7 @@ Please fill in [this form](https://forms.gle/qZpWxtRYwkif8c7k9).
 
 **I want to give a talk at local PyLadies in my area.**
 
-Please reach out to [the local chapter](https://github.com/pyladies/pyladies-assets#pyladies-assets) directly.
+Please reach out to [the local chapter](https://www.pyladies.com/locations/) directly.
 
 **Can I purchase PyLadies merchandise, like stickers, t-shirt?**
 
