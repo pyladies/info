@@ -31,7 +31,7 @@ using [the assets here](https://github.com/pyladies/pyladies-assets#pyladies-ass
 **My company has a job posting, please share this with your members.**
 
 Please fill in this form <http://bit.ly/pyladies-jobs-feed> with all the job posting information.
-It will be automatically posted to the #feed-jobs channel in our Slack space. Each field is optional,
+It will be automatically posted to the `#feed-jobs` channel in our Slack space. Each field is optional,
 but the more info you can provide, the better.
 
 **Can PyLadies sponsor our conference or event?**
@@ -53,7 +53,7 @@ Please reach out to [the local chapter](https://github.com/pyladies/pyladies-ass
 
 **Can I purchase PyLadies merchandise, like stickers, t-shirt?**
 
-You can purchase t-shirts from [here](https://shop.spreadshirt.com/pyladies/)
+You can purchase t-shirts from [here](https://shop.spreadshirt.com/pyladies/).
 Please do not purchase unauthorized merchandise from other sources.
 
 You can also attend PyCon US where we normally have a booth selling T-shirts and we giveaway stickers.
@@ -61,7 +61,7 @@ You can also attend PyCon US where we normally have a booth selling T-shirts and
 **I want to start a local PyLadies chapter.**
 
 At the moment this is not possible. We are currently revising our PyLadies chapter policy. We hope to
-have a new policy in place soon. Once the policy is set, we will be creating Google Forms, and it
+have a new policy in place soon. Once the new policy is set, we will be creating Google Forms, and it
 will be made available from our main website. In the meantime, please join us in [Slack](https://slackin.pyladies.com/)
 and join the #prospective-organizers channel.
 
@@ -83,6 +83,6 @@ You can make your donation [here](https://psfmember.org/civicrm/contribute/trans
 **Is there a PyLadies chapter where I live?**
 
 Please check out our registered [PyLadies chapter locations](https://www.pyladies.com/locations/).
-If there is none near you, it is likely does not exist. You're also welcome to join us in [Slack](https://slackin.pyladies.com/)!
+If there is none near you, it likely does not exist. You're also welcome to join us in [Slack](https://slackin.pyladies.com/)!
 
 
