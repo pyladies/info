@@ -13,6 +13,15 @@ helping future community members who has similar question about PyLadies.
 
 PyLadies [Code of Conduct](https://www.pyladies.com/CodeOfConduct/) applies to this space.
 
+# Who can ask questions here?
+
+Anyone can ask question about PyLadies. Please be mindful of our [Code of Conduct](https://www.pyladies.com/CodeOfConduct/).
+
+# Who can answer questions here?
+
+Any PyLadies organizers and members are welcome to help answer questions here. Please be mindful
+of our [Code of Conduct](https://www.pyladies.com/CodeOfConduct/).
+
 # Some FAQ about PyLadies
 
 **I'm running a local workshop, can PyLadies sponsor and provide funding?**
