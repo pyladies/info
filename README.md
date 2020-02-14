@@ -54,7 +54,7 @@ chapter](https://www.pyladies.com/locations/) directly to offer your space.
 
 **I lost password to my PyLadies email account.**
 
-Please fill in [this form](https://forms.gle/qZpWxtRYwkif8c7k9).
+Please fill in [this form](https://forms.gle/NWBwKgoFMjJyJpST8).
 
 **I want to give a talk at local PyLadies in my area.**
 
