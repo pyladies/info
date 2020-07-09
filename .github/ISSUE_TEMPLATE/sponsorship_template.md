@@ -13,6 +13,10 @@ _This template should be used for those those inquiring about a PyLadies Sponsor
 
 - What is the event about?
 
+- What language is your event in?
+
+- Where is your event Code of Conduct? Please provide the link.
+
 - How does the event tie into the PyLadies [goals and initiatives](https://pyladies.com/about/)?
 
 - How will support from the PyLadies enhance the event?
