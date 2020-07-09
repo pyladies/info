@@ -1,13 +1,17 @@
 # info
 Ask questions to PyLadies!
 
-If you have any questions about PyLadies and need to get in touch with us, please [open an issue](https://github.com/pyladies/info/issues/new), or navigate through 
-[past issues](https://github.com/pyladies/info/issues) and see if similar
+If you have any questions about PyLadies and need to get in touch with us, please [open an issue](https://github.com/pyladies/info/issues/new), or navigate through [past issues](https://github.com/pyladies/info/issues) and see if similar
 question has been asked before.
 
-PyLadies is a global organization, and run by volunteers all over the world. By posting your question
-to this repo, (instead of emailing us privately) you'll not only be helping yourself, but also will be
-helping future community members who has similar question about PyLadies.
+## About Us
+PyLadies is a global organization, and run by volunteers all over the world. By posting your question to this repo, (instead of emailing us privately) you'll not only be helping yourself, but also will be helping future community members who has similar question about PyLadies.
+
+People who identify as a marginalized gender and are passionate about programming in Python are welcome to join PyLadies as a member. For those wishing to support PyLadies that do not identify as a marginalized gender, we welcome allies that aim to empower our mission provided they abide by our [Code of Conduct](https://pyladies.com/CodeOfConduct/).
+
+### Allyship defined
+
+For the purposes of this community and [our mission](https://pyladies.com/about/), allyship is defined as an ongoing process of developing practical empathy towards the experiences of others and helping to create a culture and space where we can empower PyLadies in the Python community and the broader tech community.
 
 # Code of Conduct
 
@@ -45,7 +49,7 @@ but the more info you can provide, the better.
 
 **Can PyLadies sponsor our conference or event?**
 
-We're unable to provide financial sponsorship to events.
+We're unable to provide financial sponsorship to events. However PyLadies can assist in community sponsorship. Please open an issue using the sponsorship  template.
 
 **My company would like to host PyLadies meetup at our office.**
 
@@ -93,5 +97,3 @@ You can make your donation [here](https://psfmember.org/civicrm/contribute/trans
 
 Please check out our registered [PyLadies chapter locations](https://www.pyladies.com/locations/).
 If there is none near you, it likely does not exist. You're also welcome to join us in [Slack](https://slackin.pyladies.com/)!
-
-
