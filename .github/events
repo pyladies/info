@@ -1,0 +1,18 @@
+---
+name: PyLadies Events
+about: Use this template if you have an event that you want to share with PyLadies. Events will be automatically posted to PyLadies Slack #events channel.
+title: '[Event] <Insert Event Name and Date>'
+labels: :robot: feed/events: 
+---
+
+## Event Details
+
+- Event Name:
+- Time & Date (include timezone)
+- Location (e.g. meetup/online registration link)
+- Hosted by: (if applicable)
+- Contact info: (if applicable)
+
+## Description
+
+Enter more details about this event.
